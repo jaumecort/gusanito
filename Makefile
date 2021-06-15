@@ -1,7 +1,7 @@
 default: build
 
 build:
-	gcc -o snake *.c *.h bin/*.c bin/*.h
+	gcc -o snake *.c *.h lib/*.c lib/*.h
 
 run: build
 	./snake
