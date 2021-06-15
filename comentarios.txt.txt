@@ -1,0 +1,1 @@
+Hemos considerado que el gusano NO forma parte del tablero, sino del juego.
